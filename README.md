@@ -1,5 +1,5 @@
 # snailCompiler
-A lexical, syntaxic and semantique analyser for a hypothetical programming language called Snail
+A lexical, syntaxic and semantic analyser for a hypothetical programming language called Snail
 
 ## Programming language sample:
 ```javascript
